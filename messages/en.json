@@ -1,0 +1,139 @@
+{
+  "common": {
+    "continue": "Continue",
+    "back": "Back",
+    "close": "Close",
+    "add": "Add",
+    "remove": "Remove",
+    "total": "Total",
+    "loading": "Loading",
+    "table": "Table {table}"
+  },
+  "language": {
+    "title": "Choose your language",
+    "subtitle": "You can change it any time."
+  },
+  "consent": {
+    "title": "Before we start",
+    "terms": "I agree to the Terms and the Privacy notice",
+    "termsRequired": "Required to order",
+    "newsletter": "Send me news and offers from {venue}",
+    "giveaway": "Enter me in the giveaway",
+    "contact": "Email or phone (only needed for news or the giveaway)",
+    "draftNote": "Draft text, pending legal review"
+  },
+  "menu": {
+    "search": "Search the menu",
+    "all": "All",
+    "soldOut": "Sold out",
+    "allergens": "Allergens",
+    "viewCart": "View order",
+    "callWaiter": "Call waiter",
+    "empty": "Nothing found"
+  },
+  "allergen": {
+    "dairy": "Dairy",
+    "gluten": "Gluten",
+    "egg": "Egg",
+    "fish": "Fish",
+    "shellfish": "Shellfish",
+    "sesame": "Sesame",
+    "soy": "Soy",
+    "celery": "Celery",
+    "sulphites": "Sulphites",
+    "varies": "Ask staff"
+  },
+  "dietary": {
+    "vegetarian": "Vegetarian",
+    "vegan": "Vegan",
+    "gluten-free": "Gluten free",
+    "halal-option": "Halal option"
+  },
+  "cart": {
+    "title": "Your order",
+    "note": "Note for the kitchen",
+    "allergenPick": "Allergies in your group",
+    "subtotal": "Subtotal",
+    "gst": "GST",
+    "tip": "Tip",
+    "empty": "Your order is empty",
+    "payLater": "Pay at the table",
+    "payNow": "Pay now",
+    "place": "Place order",
+    "payHow": "How would you like to pay?",
+    "payNowHint": "Pay by card now. The kitchen starts once you have paid.",
+    "payLaterHint": "The kitchen starts now. Pay and tip later at the table or from this screen."
+  },
+  "status": {
+    "received": "Received",
+    "accepted": "Accepted",
+    "preparing": "Preparing",
+    "ready": "Ready",
+    "served": "Served",
+    "stage0": "Your order is accepted, the team is on it.",
+    "stage1": "Your food is being prepared.",
+    "stage2": "Almost there.",
+    "stage3": "It's coming to your table now.",
+    "stageLate": "Still cooking, a few more minutes.",
+    "waiting": "We received your order. Waiting for the team to accept it.",
+    "estimate": "About {min}-{max} min",
+    "orderMore": "Order more",
+    "awaitingPayment": "Your order goes to the kitchen as soon as it is paid."
+  },
+  "pay": {
+    "title": "Pay and tip",
+    "tipNone": "No tip",
+    "tipCustom": "Custom",
+    "receipt": "Receipt",
+    "pay": "Pay {amount}",
+    "unavailable": "Online payment is not available right now. Please pay at the table.",
+    "paidStamp": "Paid",
+    "addTip": "Add a tip",
+    "tipFor": "Your tip goes to {waiter}",
+    "tipAmount": "Tip amount (CAD)",
+    "payNow": "Pay now",
+    "switchToTable": "Pay at the table instead"
+  },
+  "rating": {
+    "food": "Food",
+    "service": "Service",
+    "comment": "Anything to add? (optional)",
+    "praise": "Praise {waiter}",
+    "friendly": "Friendly",
+    "fast": "Fast",
+    "helpful": "Helpful",
+    "recommendations": "Great recommendations",
+    "thanks": "Thank you!",
+    "title": "How was your visit?",
+    "submit": "Send",
+    "stars": "{n} stars",
+    "link": "Rate your visit"
+  },
+  "call": {
+    "water": "Water",
+    "bill": "Bill",
+    "help": "Help",
+    "sent": "We told your waiter."
+  },
+  "theme": {
+    "ember": "Ember",
+    "honey": "Honey",
+    "copper": "Copper"
+  },
+  "giveaway": {
+    "winner": "Congratulations! You won {prize} at {venue}. Show this message to a member of staff to claim it.",
+    "unsubscribe": "Unsubscribe",
+    "privacyDelete": "Delete my data",
+    "deleteHint": "Enter the email or phone you gave us. We will delete it.",
+    "deleteSent": "Request received. The venue will delete your data.",
+    "unsubscribed": "You have been unsubscribed.",
+    "invalidLink": "This link is not valid."
+  },
+  "home": {
+    "tagline": "Scan the QR code on your table to order."
+  },
+  "invalidQr": {
+    "title": "This QR code is no longer valid",
+    "hint": "Please ask a member of staff for help."
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "common": {
+    "continue": "继续",
+    "back": "返回",
+    "close": "关闭",
+    "add": "添加",
+    "remove": "移除",
+    "total": "合计",
+    "loading": "加载中",
+    "table": "{table} 号桌"
+  },
+  "language": {
+    "title": "请选择语言",
+    "subtitle": "您可以随时更改。"
+  },
+  "consent": {
+    "title": "开始之前",
+    "terms": "我同意条款和隐私声明",
+    "termsRequired": "点餐必须同意",
+    "newsletter": "向我发送 {venue} 的资讯和优惠",
+    "giveaway": "我要参加抽奖",
+    "contact": "邮箱或电话（仅在订阅资讯或参加抽奖时需要）",
+    "draftNote": "草稿文本，待法律审核"
+  },
+  "menu": {
+    "search": "搜索菜单",
+    "all": "全部",
+    "soldOut": "已售罄",
+    "allergens": "过敏原",
+    "viewCart": "查看订单",
+    "callWaiter": "呼叫服务员",
+    "empty": "没有找到"
+  },
+  "allergen": {
+    "dairy": "乳制品",
+    "gluten": "麸质",
+    "egg": "鸡蛋",
+    "fish": "鱼",
+    "shellfish": "贝类",
+    "sesame": "芝麻",
+    "soy": "大豆",
+    "celery": "芹菜",
+    "sulphites": "亚硫酸盐",
+    "varies": "请询问员工"
+  },
+  "dietary": {
+    "vegetarian": "素食",
+    "vegan": "纯素",
+    "gluten-free": "无麸质",
+    "halal-option": "可选清真"
+  },
+  "cart": {
+    "title": "您的订单",
+    "note": "给厨房的备注",
+    "allergenPick": "同桌人员的过敏情况",
+    "subtotal": "小计",
+    "gst": "GST",
+    "tip": "小费",
+    "empty": "订单为空",
+    "payLater": "在餐桌付款",
+    "payNow": "立即付款",
+    "place": "提交订单",
+    "payHow": "您想如何付款？",
+    "payNowHint": "立即刷卡付款。付款后厨房才开始制作。",
+    "payLaterHint": "厨房立即开始制作。稍后可在餐桌或本页面付款并给小费。"
+  },
+  "status": {
+    "received": "已收到",
+    "accepted": "已接单",
+    "preparing": "制作中",
+    "ready": "已完成",
+    "served": "已上桌",
+    "stage0": "您的订单已接单，团队正在处理。",
+    "stage1": "您的餐点正在制作中。",
+    "stage2": "马上就好。",
+    "stage3": "正在送到您的桌上。",
+    "stageLate": "还在烹制中，请再稍等几分钟。",
+    "waiting": "我们已收到您的订单，正在等待团队接单。",
+    "estimate": "大约 {min}-{max} 分钟",
+    "orderMore": "继续点餐",
+    "awaitingPayment": "付款后，您的订单将立即送到厨房。"
+  },
+  "pay": {
+    "title": "付款和小费",
+    "tipNone": "不给小费",
+    "tipCustom": "自定义",
+    "receipt": "收据",
+    "pay": "支付 {amount}",
+    "unavailable": "目前无法在线支付，请在餐桌付款。",
+    "paidStamp": "已支付",
+    "addTip": "添加小费",
+    "tipFor": "您的小费将给 {waiter}",
+    "tipAmount": "小费金额（加元）",
+    "payNow": "立即付款",
+    "switchToTable": "改为在餐桌付款"
+  },
+  "rating": {
+    "food": "餐点",
+    "service": "服务",
+    "comment": "还有什么想说的？（可选）",
+    "praise": "表扬 {waiter}",
+    "friendly": "友善",
+    "fast": "迅速",
+    "helpful": "乐于助人",
+    "recommendations": "推荐很棒",
+    "thanks": "谢谢！",
+    "title": "这次用餐如何？",
+    "submit": "提交",
+    "stars": "{n} 星",
+    "link": "为本次用餐评分"
+  },
+  "call": {
+    "water": "水",
+    "bill": "结账",
+    "help": "帮助",
+    "sent": "已通知您的服务员。"
+  },
+  "theme": {
+    "ember": "余烬",
+    "honey": "蜂蜜",
+    "copper": "铜色"
+  },
+  "giveaway": {
+    "winner": "恭喜！您在 {venue} 赢得了 {prize}。请向工作人员出示此消息领取。",
+    "unsubscribe": "退订",
+    "privacyDelete": "删除我的数据",
+    "deleteHint": "请输入您提供给我们的邮箱或电话，我们将删除它。",
+    "deleteSent": "已收到请求，店家将删除您的数据。",
+    "unsubscribed": "您已退订。",
+    "invalidLink": "此链接无效。"
+  },
+  "home": {
+    "tagline": "扫描桌上的二维码即可点餐。"
+  },
+  "invalidQr": {
+    "title": "此二维码已失效",
+    "hint": "请向工作人员求助。"
+  }
+}

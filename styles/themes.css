@@ -1,0 +1,17 @@
+/* Three warm palettes (DECISIONS D-10). Values copied from design/guest-mockup.html */
+:root,
+[data-theme="ember"] {
+  --bg: #1f1611; --surface: #2b1f17; --surface2: #37281d; --text: #f6ead9; --muted: #b9a088;
+  --accent: #e59a42; --accent-ink: #2a1608; --line: #473426; --ok: #8fbf7a; --chip: #3a2b20; --page: #120c08;
+  --bg-photo: url("/backgrounds/fireplace.jpg"); --veil: rgb(18 12 8 / 0.32);
+}
+[data-theme="honey"] {
+  --bg: #fbf3e4; --surface: #fffaf0; --surface2: #f4e7cf; --text: #3b2a1a; --muted: #8a7158;
+  --accent: #c2741a; --accent-ink: #fff8ec; --line: #e3d2b2; --ok: #4f8a3a; --chip: #f1e2c6; --page: #e9dcc5;
+  --bg-photo: url("/backgrounds/mountains.jpg"); --veil: rgb(251 243 228 / 0.6);
+}
+[data-theme="copper"] {
+  --bg: #4a3229; --surface: #5a3f34; --surface2: #684a3d; --text: #fcefdf; --muted: #d3b9a4;
+  --accent: #f2b37c; --accent-ink: #3a2016; --line: #74564a; --ok: #b5d89a; --chip: #6b4d40; --page: #2e1e17;
+  --bg-photo: url("/backgrounds/sea.jpg"); --veil: rgb(46 30 23 / 0.3);
+}

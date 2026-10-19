@@ -1,0 +1,139 @@
+{
+  "common": {
+    "continue": "Continuar",
+    "back": "Atrás",
+    "close": "Cerrar",
+    "add": "Añadir",
+    "remove": "Quitar",
+    "total": "Total",
+    "loading": "Cargando",
+    "table": "Mesa {table}"
+  },
+  "language": {
+    "title": "Elige tu idioma",
+    "subtitle": "Puedes cambiarlo cuando quieras."
+  },
+  "consent": {
+    "title": "Antes de empezar",
+    "terms": "Acepto los Términos y el Aviso de privacidad",
+    "termsRequired": "Obligatorio para pedir",
+    "newsletter": "Quiero recibir novedades y ofertas de {venue}",
+    "giveaway": "Quiero participar en el sorteo",
+    "contact": "Correo o teléfono (solo si quieres novedades o el sorteo)",
+    "draftNote": "Texto provisional, pendiente de revisión legal"
+  },
+  "menu": {
+    "search": "Buscar en el menú",
+    "all": "Todo",
+    "soldOut": "Agotado",
+    "allergens": "Alérgenos",
+    "viewCart": "Ver pedido",
+    "callWaiter": "Llamar al mesero",
+    "empty": "Sin resultados"
+  },
+  "allergen": {
+    "dairy": "Lácteos",
+    "gluten": "Gluten",
+    "egg": "Huevo",
+    "fish": "Pescado",
+    "shellfish": "Mariscos",
+    "sesame": "Sésamo",
+    "soy": "Soya",
+    "celery": "Apio",
+    "sulphites": "Sulfitos",
+    "varies": "Pregunta al personal"
+  },
+  "dietary": {
+    "vegetarian": "Vegetariano",
+    "vegan": "Vegano",
+    "gluten-free": "Sin gluten",
+    "halal-option": "Opción halal"
+  },
+  "cart": {
+    "title": "Tu pedido",
+    "note": "Nota para la cocina",
+    "allergenPick": "Alergias en tu grupo",
+    "subtotal": "Subtotal",
+    "gst": "GST",
+    "tip": "Propina",
+    "empty": "Tu pedido está vacío",
+    "payLater": "Pagar en la mesa",
+    "payNow": "Pagar ahora",
+    "place": "Hacer pedido",
+    "payHow": "¿Cómo quieres pagar?",
+    "payNowHint": "Paga ahora con tarjeta. La cocina empieza cuando hayas pagado.",
+    "payLaterHint": "La cocina empieza ahora. Paga y deja propina después, en la mesa o desde esta pantalla."
+  },
+  "status": {
+    "received": "Recibido",
+    "accepted": "Aceptado",
+    "preparing": "En preparación",
+    "ready": "Listo",
+    "served": "Servido",
+    "stage0": "Tu pedido fue aceptado, el equipo ya está en ello.",
+    "stage1": "Estamos preparando tu comida.",
+    "stage2": "Casi listo.",
+    "stage3": "Ya va hacia tu mesa.",
+    "stageLate": "Seguimos cocinando, unos minutos más.",
+    "waiting": "Recibimos tu pedido. Esperando que el equipo lo acepte.",
+    "estimate": "Unos {min}-{max} min",
+    "orderMore": "Pedir más",
+    "awaitingPayment": "Tu pedido pasa a la cocina en cuanto se pague."
+  },
+  "pay": {
+    "title": "Pagar y propina",
+    "tipNone": "Sin propina",
+    "tipCustom": "Otra",
+    "receipt": "Recibo",
+    "pay": "Pagar {amount}",
+    "unavailable": "El pago en línea no está disponible ahora. Por favor paga en la mesa.",
+    "paidStamp": "Pagado",
+    "addTip": "Agregar propina",
+    "tipFor": "Tu propina va para {waiter}",
+    "tipAmount": "Monto de la propina (CAD)",
+    "payNow": "Pagar ahora",
+    "switchToTable": "Pagar en la mesa"
+  },
+  "rating": {
+    "food": "Comida",
+    "service": "Servicio",
+    "comment": "¿Algo más? (opcional)",
+    "praise": "Elogiar a {waiter}",
+    "friendly": "Amable",
+    "fast": "Rápido",
+    "helpful": "Servicial",
+    "recommendations": "Buenas recomendaciones",
+    "thanks": "¡Gracias!",
+    "title": "¿Cómo fue tu visita?",
+    "submit": "Enviar",
+    "stars": "{n} estrellas",
+    "link": "Califica tu visita"
+  },
+  "call": {
+    "water": "Agua",
+    "bill": "Cuenta",
+    "help": "Ayuda",
+    "sent": "Avisamos a tu mesero."
+  },
+  "theme": {
+    "ember": "Brasa",
+    "honey": "Miel",
+    "copper": "Cobre"
+  },
+  "giveaway": {
+    "winner": "¡Felicidades! Ganaste {prize} en {venue}. Muestra este mensaje al personal para reclamarlo.",
+    "unsubscribe": "Cancelar suscripción",
+    "privacyDelete": "Eliminar mis datos",
+    "deleteHint": "Escribe el correo o teléfono que nos diste. Lo eliminaremos.",
+    "deleteSent": "Solicitud recibida. El local eliminará tus datos.",
+    "unsubscribed": "Tu suscripción fue cancelada.",
+    "invalidLink": "Este enlace no es válido."
+  },
+  "home": {
+    "tagline": "Escanea el código QR de tu mesa para pedir."
+  },
+  "invalidQr": {
+    "title": "Este código QR ya no es válido",
+    "hint": "Por favor pide ayuda al personal."
+  }
+}

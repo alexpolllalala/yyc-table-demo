@@ -1,0 +1,29 @@
+{
+  "name": "yyc-table-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive demo of a QR-code ordering system for pubs and cafes (runs in the browser, fictional data).",
+  "scripts": {
+    "dev": "vite --config static-demo/vite.config.ts",
+    "build": "vite build --config static-demo/vite.config.ts",
+    "preview": "vite preview --config static-demo/vite.config.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "@tailwindcss/vite": "4.3.3",
+    "@types/node": "26.6.3",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "4.7.0",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.9.3",
+    "vite": "6.4.4"
+  }
+}
